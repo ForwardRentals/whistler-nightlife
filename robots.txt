@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whistlernightlife.com/sitemap.xml
